@@ -12,3 +12,13 @@ registry editor to save parameters
 <p>для внесения параметра необходима создать файл "action" и записать туда write , "name_element" туда записать название параметра , "type_element" туда записать root или user и "value_element" записать значение параметра</p>
 
 <p>для удаления параметра необходима создать файл "action" и записать туда delete , "name_element" с названием параметра и "type_element" root или user</p>
+
+<p>для проверки параметра необходима создать файл "action" и записать туда check , "name_element" с названием параметра и "type_element" root или user</p>
+
+<p>для того чтобы прочитать параметр необходима создать файл "action" и записать туда read , "name_element" с названием параметра и "type_element" root или user</p>
+
+<p>для Windows:</p>
+перенести программу в корень диска
+
+<p>для Linux:</p>
+перенести программу в home
