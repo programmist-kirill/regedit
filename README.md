@@ -1,2 +1,2 @@
 # registry editor
-regedit to save parameters
+registry editor to save parameters
