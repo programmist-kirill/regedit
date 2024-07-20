@@ -9,4 +9,6 @@ registry editor to save parameters
   4.read = для того чтобы прочитать параметр
 </p>
 
-<p>для внесения параметра необходима создать файл "action" и записать туда write , "name_element" туда записать название параметра , "type_element" туда записать root или user , "value_element" записать значение параметра</p>
+<p>для внесения параметра необходима создать файл "action" и записать туда write , "name_element" туда записать название параметра , "type_element" туда записать root или user и "value_element" записать значение параметра</p>
+
+<p>для удаления параметра необходима создать файл "action" и записать туда delete , "name_element" с названием параметра и "type_element" root или user</p>
